@@ -1,3 +1,4 @@
+# for python 3.8
 import cv2
 import os
 from tensorflow.keras.preprocessing.image import img_to_array
